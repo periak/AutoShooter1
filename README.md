@@ -1,8 +1,9 @@
+```markdown
 # Auto Shooter
 
 ## Opis gry
 
-Auto Shooter to dynamiczna gra akcji, w której Twoim celem jest przetrwanie jak najdłużej, eliminując nieustannie odradzających się przeciwników. Twoim zadaniem jest bić własne rekordy w przetrwaniu. Gra kończy się, gdy przeciwnik dotknie Twojego czołgu.
+Auto Shooter to dynamiczna gra akcji, w której Twoim celem jest przetrwanie przez 5 minut, eliminując nieustannie odradzających się przeciwników. Gra kończy się, gdy przeciwnik dotknie Twojego czołgu.
 
 ## Zasady gry
 
@@ -16,12 +17,12 @@ Auto Shooter to dynamiczna gra akcji, w której Twoim celem jest przetrwanie jak
    - Jeżeli przeciwnik dotknie Twojego czołgu, przegrywasz.
 
 3. **Cel gry**:
-   - Przetrwaj jak najdłużej, bijąc swoje rekordy czasowe.
+   - Przetrwaj przez 5 minut, aby wygrać.
 
 ## Funkcje
 
 - **Automatyczne strzelanie**: Twój czołg strzela automatycznie co sekundę.
-- **Niekończąca się gra**: Przeciwnicy odradzają się nieskończenie, a celem jest przetrwanie jak najdłużej.
+- **Niekończąca się gra**: Przeciwnicy odradzają się nieskończenie, a celem jest przetrwanie przez 5 minut.
 - **Proste sterowanie**: Intuicyjne sterowanie za pomocą strzałek na klawiaturze.
 
 ## Jak zacząć?
@@ -39,5 +40,5 @@ Auto Shooter to dynamiczna gra akcji, w której Twoim celem jest przetrwanie jak
 - RAM: 2 GB lub więcej
 - Karta graficzna: Zintegrowana z DirectX 10 lub lepsza
 
-
-Dziękujemy za granie w Auto Shooter! Baw się dobrze i powodzenia w biciu rekordów!
+Dziękujemy za granie w Auto Shooter! Baw się dobrze i powodzenia w przetrwaniu przez 5 minut!
+```
