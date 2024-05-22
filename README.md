@@ -1,4 +1,3 @@
-```markdown
 # Auto Shooter
 
 ## Opis gry
